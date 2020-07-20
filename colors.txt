@@ -1,4 +1,7 @@
 red
 black
 green
+blue
+pink
+
 change from github
