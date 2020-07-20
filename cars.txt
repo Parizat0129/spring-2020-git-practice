@@ -10,4 +10,8 @@ Mercedes
 Audi
 KTA
 Jeep
+Jaguar
+Hyundai
+Nissan
+Lexus
 
